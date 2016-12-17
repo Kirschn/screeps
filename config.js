@@ -2,7 +2,7 @@ module.exports = {
 		requiredCreeps: {
 			harvester: 1,
 			builder: 0,
-			levelBuilder: 0,
+			levelBuilder: 1,
 			defender: 0
 		},
 		roleModules: {
